@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ldsdpanamgipalli
 - 👀 I’m interested in ... Social Media
-- 🌱 I’m currently learning ... Service Desk Course
-- 💞️ I’m looking to collaborate on ... Linedata Company
+- 🌱 I’m currently learning ... Python Course
+- 💞️ I’m looking to collaborate on ..Vision Company
 - 📫 How to reach me ...through what'sapp
 
 <!---
